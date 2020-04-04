@@ -1,1 +1,4 @@
-Replace this with a link to your a GitHub or social media profile.
+# This is my [Github](https://github.com/ndvp) profile
+
+
+# And this is my [Linkedn](https://www.linkedin.com/in/nuno-pais/) account
